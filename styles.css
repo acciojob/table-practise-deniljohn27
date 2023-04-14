@@ -1,9 +1,9 @@
 /*  your css code here. If applicable */
 table{
 	background-color:yellow;
-	border:2px solid black;
+	border:1px solid black;
 }
 td,th,tr{
-	border:2px solid black;
+	border:1px solid black;
 }
 
